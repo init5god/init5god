@@ -1,6 +1,6 @@
 # CodeRoom
 
-# ![https://coderoom.mx](https://i.imgur.com/A4oH5N6.png) Hola, mi nombre es Alonso EML 👋
+# ![https://coderoom.mx](https://i.imgur.com/A4oH5N6.png) Hi there, my name is Alonso EML 👋
 
 ### Freelance full-stack software engineer
 
