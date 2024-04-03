@@ -6,9 +6,8 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/coderoom?style=social)](https://twitter.com/zaklahunik)
+![GitHub Followers](https://img.shields.io/github/followers/coderoom?style=social)
 
 I’m an accomplished and forward-thinking professional with extensive experience in web design and code development, having worked across a wide range of industries and within different types of projects. Possessing a proven track record of success in identifying and delivering the technology-based needs of organizations through inventive and creative solutions. Adept in creating databases, designing user interfaces, machine learning, linux, coding, debugging and testing, and incorporating user feedback to implement new features. With 10+ years of experience, as a professional I’m equipped to tackle any challenge that comes my way.
 
